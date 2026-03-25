@@ -229,7 +229,3 @@ unlearner.visualize_analysis("weight_changes.png")
 - Privacy-preserving unlearning methods
 - Comprehensive evaluation benchmarks
 
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
