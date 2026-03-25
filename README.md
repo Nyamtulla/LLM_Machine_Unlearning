@@ -229,18 +229,6 @@ unlearner.visualize_analysis("weight_changes.png")
 - Privacy-preserving unlearning methods
 - Comprehensive evaluation benchmarks
 
-## Citation
-
-If you use this code in your research, please cite:
-
-```bibtex
-@misc{machine-unlearning-2024,
-  title={Machine Unlearning via Weight Difference Subtraction},
-  author={Your Name},
-  year={2024},
-  url={https://github.com/your-repo/machine-unlearning}
-}
-```
 
 ## License
 
